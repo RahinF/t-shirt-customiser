@@ -63,7 +63,7 @@ const Customiser: FC = () => {
     try {
       setGenerateImage(true);
 
-      const response = await fetch("http://localhost:3000/api/dalle", {
+      const response = await fetch("/api/dalle", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
