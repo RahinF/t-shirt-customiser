@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.0.9",
-    "@react-three/drei": "^9.66.3",
+    "@react-three/drei": "^9.77.3",
     "@react-three/fiber": "^8.13.0",
     "@types/node": "20.1.0",
     "@types/react": "18.2.5",
